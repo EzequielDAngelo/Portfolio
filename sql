@@ -106,7 +106,7 @@ INSERT INTO COURSE
 
 --Cantidad de alumnos anotados en cada area y ordenado de ---mayor a menor.
 --Computer Science y Science, Technology, Engineering, and --Mathematics primeros. Pero son las areas con menos
---porcentaje de alumnos que lograron certificarse
+--porcentaje de alumnos que lograron certificarse.
 
 SELECT COURSE_SUBJECT,
        COUNT(*) AS NUMBER_OF_COURSES,
