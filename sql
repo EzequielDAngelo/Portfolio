@@ -1,4 +1,4 @@
---creación de la tabla
+--creación de la tabla.
 
 CREATE TABLE courses (
 institution VARCHAR2(500),
